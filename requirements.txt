@@ -5,3 +5,5 @@ matplotlib
 seaborn
 pydantic
 notebook
+xgboost
+lightgbm
